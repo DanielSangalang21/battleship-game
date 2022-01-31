@@ -1,0 +1,5 @@
+Game mechanics
+-Hit enemy ships by guessing the grid where they are placed
+-the location is combination of row (letter) and column (number) example A1
+-the enemy ships spans 3 grid that can be horizontal or vertical
+-total of 3 enemy ships to sink!
